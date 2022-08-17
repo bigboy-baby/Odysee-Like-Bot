@@ -1,3 +1,4 @@
+#Code by bigboybigboi#0001 skid if ur homosexual (ew)
 import requests, threading, json
 
 with open('config.json') as config_file:
